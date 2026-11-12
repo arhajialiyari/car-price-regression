@@ -1,4 +1,13 @@
-/data/
+# Dataset
+/cardata.csv
+
+# Local and temporary notebooks
+/test1.ipynb
+.ipynb_checkpoints/
+
+# Python
 .venv/
 __pycache__/
-.ipynb_checkpoints/
+
+# Temporary data directory
+/data/

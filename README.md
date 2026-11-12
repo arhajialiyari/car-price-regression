@@ -1,6 +1,6 @@
 # Car Price Regression
 
-A machine learning project focused on used car price regression using the CarDekho dataset.
+A machine learning project for used car price prediction using the CarDekho dataset and linear regression.
 
 ## Dataset
 
@@ -10,12 +10,17 @@ Source: [Vehicle Dataset from CarDekho - Kaggle](https://www.kaggle.com/datasets
 
 The dataset is not included in this repository.
 
+Download `cardata.csv` and place it in the project root, alongside the notebook.
+
 ## Notebook
 
-The original Jupyter Notebook is available in the `notebooks` directory.
+The main notebook is `CarDataLinearRegression.ipynb`.
+
+It covers data analysis, feature engineering, linear regression, model evaluation, and sample price prediction.
 
 ## Environment
 
-- Python 3.11.7
+- Python
 - Conda
+- Jupyter Notebook
 - Visual Studio Code
